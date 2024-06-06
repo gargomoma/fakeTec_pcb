@@ -37,3 +37,12 @@ Check if the bootloader version is >0.8, update if needed from [here](https://gi
 Look for: "update-nice_nano_bootloader-X.X.X_nosd" where X.X.X is the version. Latest version is: [update-nice_nano_bootloader-0.9.1_nosd.uf2](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases/download/0.9.1/update-nice_nano_bootloader-0.9.1_nosd.uf2)
 
 To flash all you need to do is to connect the device via USB and double tap reset, by double tap RST and GND pins with tweezers. After doing so you should see in your OS a USB storage device named "NICENANO". Copy/move the .uf2 file into the storage device and wait for the reboot.
+
+# ♥Thanks♥
+Thanks to all the folks in the [Discoord NRF52 chat](https://discord.com/channels/867578229534359593/1194757507013427250) for the support on designing this board ♥ 
+
+
+# Pictures
+| Front | Back |
+| :------------ | :---------------------------- |
+|![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/simulation_image_top.png) | ![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/simulation_image_bottom.png) |
