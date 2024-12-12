@@ -1,4 +1,5 @@
 
+
 # fakeTec_pcb
 A low-cost nrf52 device with the form-factor of the heltec v2 & v3 devices compatible with [Meshtastic](https://meshtastic.org/)®.
 
@@ -76,11 +77,31 @@ Then:
 
 # ♥Thanks♥
 Thanks to all the folks in the [Discord NRF52 chat](https://discord.com/channels/867578229534359593/1194757507013427250) for the support on designing this board ♥ 
+And thank you to the people contributing with their own deisgns (see Community contributions).
 
 # Pictures
 | Front | Back |
 | :------------ | :---------------------------- |
 |![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/front_fakeTec.png) | ![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/back_fakeTec.png) |
+
+# Community contributions
+**[lupusworax](https://github.com/lupusworax)**'s [designs](https://github.com/gargomoma/fakeTec_pcb/issues/8).
+
+| Name | Link |
+| :------------ | :---------------------------- |
+| **FAKECAP**  | [https://www.printables.com/model/1067553-meshtastic-fakecap-super-slim-nrf52-gps-node](https://www.printables.com/model/1067553-meshtastic-fakecap-super-slim-nrf52-gps-node) |
+| **Tamameshi** | [https://www.printables.com/model/1061194-lwc-meshtastic-tamameshi-portable-faketec-node](https://www.printables.com/model/1061194-lwc-meshtastic-tamameshi-portable-faketec-node) |
+| **Meshformer**| [https://www.printables.com/model/1058668-lwc-meshtastic-meshformer-communicator-node](https://www.printables.com/model/1058668-lwc-meshtastic-meshformer-communicator-node) |
+
+**[mosstrike1](https://cults3d.com/en/users/mosstrike1)**'s FakeDek
+
+[https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device )
+
+**[candre23](https://github.com/candre23)**'s [dummy model](https://github.com/gargomoma/fakeTec_pcb/issues/5)
+
+[https://www.printables.com/model/1098558-faketec-dummy-model](https://www.printables.com/model/1098558-faketec-dummy-model)
+
+
 
 # About Meshtastic
 [Meshtastic](https://meshtastic.org/)® is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses, see github for details.
