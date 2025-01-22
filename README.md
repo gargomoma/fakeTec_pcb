@@ -1,6 +1,15 @@
 # fakeTec_pcb
 A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compatible with [Meshtastic](https://meshtastic.org/)®.
 
+# Pictures
+<details><summary>Click to open</summary>
+
+| Front | Back |
+| :------------ | :---------------------------- |
+|![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/front_fakeTec.png) | ![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/back_fakeTec.png) |
+
+</details>
+
 ## Features
 - Small size based on Heltec v3: You can use the same cases!
 - i2c side ports ready to connect an OLED SSD1306 screen.
@@ -26,16 +35,35 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 
 | Part | Source | Cost&nbsp;(€) | Note |
 | :------------ | :---------------------------- | :-----------------| :-----------------|
-| ProMicro (aka NiceNano) | <a href="https://www.aliexpress.com/item/1005006446457448.html" target="_blank">AliExpress</a> | 5€ ||
+| ProMicro (aka NiceNano) | <a href="https://www.aliexpress.com/item/1005006446457448.html" target="_blank">AliExpress</a><br /> <a href="https://www.aliexpress.com/item/1005007738886550.html" target="_blank">AliExpress</a> | 5€ <br /> 2x for 5€ | |
 | HT-RA62 | <a href="https://www.aliexpress.com/item/1005005543917617.html" target="_blank">AliExpress</a> | 5€ | You can also use <a href="https://www.aliexpress.com/item/1005002561194884.html">RA-01SH</a> |
 | 2x Through Hole Resistors // SMD resistor | <a href="https://www.aliexpress.com/item/1005006044241818.html" target="_blank">AliExpress</a> | 3€ pack<br /> 0.1€/resistor | You can buy a package of multiple values for a few €.<br /> Choose depending on material you already have &/or soldering skills. I'm using 2x 1M ohms |
 | OLED SSD1306 i2c (optional) | <a href="https://www.aliexpress.com/item/1005005970901119.html" target="_blank">AliExpress</a> | 1.5€ | No need to solder, just be careful and add some tape in between the boards to avoid a short. |
 | Battery connection (optional) | <a href="https://www.aliexpress.com/item/1005002564191148.html" target="_blank">AliExpress</a> | 2€ pack<br /> 0.4€/unit | This is an example. |
 | Antenna pigtail (recommended) | <a href="https://www.aliexpress.com/item/4001287491018.html" target="_blank">AliExpress</a> | 2€ | I saw that it underperformed with a cheap black pigtail, after using one of these, it worked fine. |
 | PCB |  | 2€ pack of 5<br /> 0.4€/unit | Use your favourite company to get the PCB. |
-| 2x Buttons | <a href="https://de.aliexpress.com/item/4001125532910.html" target="_blank">AliExpress</a> | 1.8€ pack<br /> 0.1€/button | You can buy a package of 100 for a few €.<br /> I couldn't find a part code, search for "3*4*2.0 2 Pin Button" |
+| 2x Buttons | <a href="https://www.aliexpress.com/item/4001125532910.html" target="_blank">AliExpress</a> | 1.8€ pack<br /> 0.1€/button | You can buy a package of 100 for a few €.<br /> I couldn't find a part code, search for "3*4*2.0 2 Pin Button" |
+| [#16](https://github.com/gargomoma/fakeTec_pcb/issues/16) lupusworax's v4<br /> Mosfets SI2312 | <a href="https://www.aliexpress.com/item/1005004676217612.html" target="_blank">AliExpress</a> | 9€ pack of 200<br /> | --- |
+| [#16](https://github.com/gargomoma/fakeTec_pcb/issues/16) lupusworax's v4<br /> Resistors | <a href="https://www.aliexpress.com/item/1005002991902748.html" target="_blank">AliExpress</a> | 2.4€ pack of 100<br /> | --- |
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||||
 | <strong>Total</strong> || 10€ | |
+
+# Community contributions
+
+| Author | Name | Link |
+| :------------ | :------------ | :---------------------------- |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **FakeCAP** | [printables](https://www.printables.com/model/1067553-meshtastic-fakecap-super-slim-nrf52-gps-node) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Tamameshi** | [printables](https://www.printables.com/model/1061194-lwc-meshtastic-tamameshi-portable-faketec-node) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Meshformer** | [printables](https://www.printables.com/model/1058668-lwc-meshtastic-meshformer-communicator-node) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **WayPoint** | [printables](https://www.printables.com/model/1104742-meshtastic-waypoint-water-resistant-outdoor-solar) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **MeshTAK** | [printables](https://www.printables.com/model/1116459-meshtastic-meshtak-tacticool-big-boi-water-resista) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **SCOUT** | [printables](https://www.printables.com/model/1144370-meshtastic-faketak-scout-ultra-portable-tacticool) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **F1 Micro** | [printables](https://www.printables.com/model/1123408-meshtastic-faketec-f1-micro-node-nrf52) |
+| [mosstrike1](https://cults3d.com/en/users/mosstrike1) | **FakeDeck** | [https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device ) |
+| [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **Dummy Model** | [printables](https://www.printables.com/model/1098558-faketec-dummy-model) |
+| [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **p4gr** | [printables](https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta) |
+
+
 
 # Notes
 
@@ -76,35 +104,6 @@ Then:
 # ♥Thanks♥
 Thanks to all the folks in the [Discord nRF52 chat](https://discord.com/channels/867578229534359593/1194757507013427250) for the support on designing this board ♥
 And thank you to the people contributing with their own designs (see Community contributions).
-
-# Pictures
-| Front | Back |
-| :------------ | :---------------------------- |
-|![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/front_fakeTec.png) | ![image](https://github.com/gargomoma/fakeTec_pcb/blob/main/pics/back_fakeTec.png) |
-
-# Community contributions
-**[lupusworax](https://github.com/lupusworax)**'s [designs](https://github.com/gargomoma/fakeTec_pcb/issues/8).
-
-| Name | Link |
-| :------------ | :---------------------------- |
-| **FakeCAP** | [https://www.printables.com/model/1067553-meshtastic-fakecap-super-slim-nrf52-gps-node](https://www.printables.com/model/1067553-meshtastic-fakecap-super-slim-nrf52-gps-node) |
-| **Tamameshi** | [https://www.printables.com/model/1061194-lwc-meshtastic-tamameshi-portable-faketec-node](https://www.printables.com/model/1061194-lwc-meshtastic-tamameshi-portable-faketec-node) |
-| **Meshformer** | [https://www.printables.com/model/1058668-lwc-meshtastic-meshformer-communicator-node](https://www.printables.com/model/1058668-lwc-meshtastic-meshformer-communicator-node) |
-| **WayPoint** | [https://www.printables.com/model/1104742-meshtastic-waypoint-water-resistant-outdoor-solar](https://www.printables.com/model/1104742-meshtastic-waypoint-water-resistant-outdoor-solar) |
-| **MeshTAK** | [https://www.printables.com/model/1116459-meshtastic-meshtak-tacticool-big-boi-water-resista](https://www.printables.com/model/1116459-meshtastic-meshtak-tacticool-big-boi-water-resista) |
-
-**[mosstrike1](https://cults3d.com/en/users/mosstrike1)**'s FakeDeck
-
-[https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device )
-
-**[candre23](https://github.com/candre23)**'s [dummy model](https://github.com/gargomoma/fakeTec_pcb/issues/5) + [case]()
-
-| Name | Link |
-| :------------ | :---------------------------- |
-| **Dummy Model** | [https://www.printables.com/model/1098558-faketec-dummy-model](https://www.printables.com/model/1098558-faketec-dummy-model) |
-| **p4gr** | [https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta](https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta) |
-
-
 
 # About Meshtastic
 [Meshtastic](https://meshtastic.org/)® is a registered trademark of Meshtastic LLC. Meshtastic software components are released under various licenses, see github for details.
