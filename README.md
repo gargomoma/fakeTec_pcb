@@ -63,7 +63,19 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **Dummy Model** | [printables](https://www.printables.com/model/1098558-faketec-dummy-model) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **p4gr** | [printables](https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta) |
 
+## Videos
+[Building FakeTec v2 by KBOX Labs](https://www.youtube.com/watch?v=NtnSVTl6weA)
 
+[Building FakeTec v2 by lupusworax](https://www.youtube.com/watch?v=JvBfYyUF-0w)
+
+## PCB Versions
+
+| Version | Description |
+|--------|--------|
+| 1 | Original layout. |
+| 2 | OledPins moved; Voltage divider resistors moved; added 2mm holes. |
+| 3 | Bigger pads; Added 2 x pushbuttons; Access to charge boost option. |
+| 4 | Same as v3 with 3 x smd power mosfets for swithching external hardware. [💖 Full credit goes to lupusworax 💖] | 
 
 # Notes
 
