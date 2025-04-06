@@ -75,7 +75,8 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | 1 | Original layout. |
 | 2 | OledPins moved; Voltage divider resistors moved; added 2mm holes. |
 | 3 | Bigger pads; Added 2 x pushbuttons; Access to charge boost option. |
-| 4 | Same as v3 with 3 x smd power mosfets for swithching external hardware. [💖 Full credit goes to lupusworax 💖] | 
+| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) | Same as v3 with 3 x smd power mosfets for swithching external hardware. [💖 Full credit goes to lupusworax 💖] | 
+| [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) | Battery protection, low profile, JST connector, dedicated battery pins. [💖 Full credit goes to ShimonHoranek 💖] |
 
 # Notes
 
