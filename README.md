@@ -68,6 +68,8 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 
 [Building FakeTec v2 by lupusworax](https://www.youtube.com/watch?v=JvBfYyUF-0w)
 
+[Building FakeTec v3 by ea3grn (spanish)](https://www.youtube.com/watch?v=NRIXPWYmfq8)
+
 ## PCB Versions
 
 | Version | Description |
