@@ -35,7 +35,7 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 
 | Part | Source | Cost&nbsp;(€) | Note |
 | :------------ | :---------------------------- | :-----------------| :-----------------|
-| ProMicro (aka NiceNano) | <a href="https://www.aliexpress.com/item/1005006446457448.html" target="_blank">AliExpress</a><br /> <a href="https://www.aliexpress.com/item/1005007738886550.html" target="_blank">AliExpress</a> | 5€ <br /> 2x for 5€ | |
+| ProMicro (aka NiceNano) | <a href="https://www.aliexpress.com/item/1005006446457448.html" target="_blank">AliExpress</a><br /> <a href="https://www.aliexpress.com/item/1005007738886550.html" target="_blank">AliExpress</a> | 5€ <br /> 2x for 5€ | ⚠️[Please read it before buying red ProMicros](https://github.com/gargomoma/fakeTec_pcb/issues/30)⚠️ |
 | HT-RA62 | <a href="https://www.aliexpress.com/item/1005005543917617.html" target="_blank">AliExpress</a> | 5€ | You can also use <a href="https://www.aliexpress.com/item/1005002561194884.html">RA-01SH</a> |
 | 2x Through Hole Resistors // SMD resistor | <a href="https://www.aliexpress.com/item/1005006044241818.html" target="_blank">AliExpress</a> | 3€ pack<br /> 0.1€/resistor | You can buy a package of multiple values for a few €.<br /> Choose depending on material you already have &/or soldering skills. I'm using 2x 1M ohms |
 | OLED SSD1306 i2c (optional) | <a href="https://www.aliexpress.com/item/1005005970901119.html" target="_blank">AliExpress</a> | 1.5€ | No need to solder, just be careful and add some tape in between the boards to avoid a short. |
@@ -59,7 +59,10 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **MeshTAK** | [printables](https://www.printables.com/model/1116459-meshtastic-meshtak-tacticool-big-boi-water-resista) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **SCOUT** | [printables](https://www.printables.com/model/1144370-meshtastic-faketak-scout-ultra-portable-tacticool) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **F1 Micro** | [printables](https://www.printables.com/model/1123408-meshtastic-faketec-f1-micro-node-nrf52) |
-| [mosstrike1](https://cults3d.com/en/users/mosstrike1) | **FakeDeck** | [https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device ) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **FakeCAP** | [printables](https://www.printables.com/model/1299801-fakecap-solar-maximus-faketec-meshtastic-node) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **Amade 2** | [printables](https://www.printables.com/model/1286551-meshtastic-faketec-amade2-nrf52-node-duo-color-vin) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Solar Outdoor Node Remix** | [printables](https://www.printables.com/model/1302410-faketec-solar-outdoor-node) |
+| [mosstrike1](https://cults3d.com/en/users/mosstrike1) | **FakeDeck** | [cults3d](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device ) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **Dummy Model** | [printables](https://www.printables.com/model/1098558-faketec-dummy-model) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **p4gr** | [printables](https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta) |
 
@@ -70,15 +73,24 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 
 [Building FakeTec v3 by ea3grn (spanish)](https://www.youtube.com/watch?v=NRIXPWYmfq8)
 
+## Blog posts
+
+[Building guide by Adrelien](https://adrelien.com/diy-meshtastic-how-to-build-your-own-meshtastic-device-with-faketec-pcb-nrf52840)
+
 ## PCB Versions
 
-| Version | Description |
-|--------|--------|
-| 1 | Original layout. |
-| 2 | OledPins moved; Voltage divider resistors moved; added 2mm holes. |
-| 3 | Bigger pads; Added 2 x pushbuttons; Access to charge boost option. |
-| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) | Same as v3 with 3 x smd power mosfets for swithching external hardware. [💖 Full credit goes to lupusworax 💖] | 
-| [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) | Battery protection, low profile, JST connector, dedicated battery pins. [💖 Full credit goes to ShimonHoranek 💖] |
+| Version | Author | Description |
+|--------|--------|--------|
+| 1 | gargomoma | Original layout. |
+| 2 | gargomoma | OledPins moved; Voltage divider resistors moved; added 2mm holes. |
+| 3 | gargomoma | Bigger pads; Added 2 x pushbuttons; Access to charge boost option. |
+| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) * | lupusworax | Same as v3 with 3 x smd power mosfets for swithching external hardware.| 
+| [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) * | ShimonHoranek | Battery protection, low profile, JST connector, dedicated battery pins.|
+| [6](https://github.com/gargomoma/fakeTec_pcb/issues/26) * | ShimonHoranek | ⚠️UNTESTED⚠️ Similar to v5 + SOLAR (CN3791 MPPT).|
+
+* The Gerber files in the repository may not be the most recent. Always verify the user's original post for updates before using a community-submitted design.
+
+Hint: Newer versions aren't necessarily superior; when unsure use v3 or v4.
 
 # Notes
 
