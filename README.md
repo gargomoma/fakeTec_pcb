@@ -53,14 +53,14 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | Author | Name | Link |
 | :------------ | :------------ | :---------------------------- |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **FakeCAP** | [printables](https://www.printables.com/model/1067553-meshtastic-fakecap-super-slim-nrf52-gps-node) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **FakeCAP Solar** | [printables](https://www.printables.com/model/1299801-fakecap-solar-maximus-faketec-meshtastic-node) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Tamameshi** | [printables](https://www.printables.com/model/1061194-lwc-meshtastic-tamameshi-portable-faketec-node) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Meshformer** | [printables](https://www.printables.com/model/1058668-lwc-meshtastic-meshformer-communicator-node) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **WayPoint** | [printables](https://www.printables.com/model/1104742-meshtastic-waypoint-water-resistant-outdoor-solar) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **MeshTAK** | [printables](https://www.printables.com/model/1116459-meshtastic-meshtak-tacticool-big-boi-water-resista) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **SCOUT** | [printables](https://www.printables.com/model/1144370-meshtastic-faketak-scout-ultra-portable-tacticool) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **F1 Micro** | [printables](https://www.printables.com/model/1123408-meshtastic-faketec-f1-micro-node-nrf52) |
-| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **FakeCAP** | [printables](https://www.printables.com/model/1299801-fakecap-solar-maximus-faketec-meshtastic-node) |
-| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **Amade 2** | [printables](https://www.printables.com/model/1286551-meshtastic-faketec-amade2-nrf52-node-duo-color-vin) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **Amade 2 ( Duo color vintage)** | [printables](https://www.printables.com/model/1286551-meshtastic-faketec-amade2-nrf52-node-duo-color-vin) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Solar Outdoor Node Remix** | [printables](https://www.printables.com/model/1302410-faketec-solar-outdoor-node) |
 | [mosstrike1](https://cults3d.com/en/users/mosstrike1) | **FakeDeck** | [cults3d](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device ) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **Dummy Model** | [printables](https://www.printables.com/model/1098558-faketec-dummy-model) |
