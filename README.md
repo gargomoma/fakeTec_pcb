@@ -65,6 +65,7 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | [mosstrike1](https://cults3d.com/en/users/mosstrike1) | **FakeDeck** | [cults3d](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device ) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **Dummy Model** | [printables](https://www.printables.com/model/1098558-faketec-dummy-model) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **p4gr** | [printables](https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta) |
+| [lastparody](https://github.com/gargomoma/fakeTec_pcb/issues/40) | **Testosterone Edition Case**| [makerworld](https://makerworld.com/tr/models/1646395-faketec-case-testosterone-edition) |
 
 ## Videos
 [Building FakeTec v2 by KBOX Labs](https://www.youtube.com/watch?v=NtnSVTl6weA)
@@ -84,7 +85,7 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | 1 | gargomoma | Original layout. |
 | 2 | gargomoma | OledPins moved; Voltage divider resistors moved; added 2mm holes. |
 | 3 | gargomoma | Bigger pads; Added 2 x pushbuttons; Access to charge boost option. |
-| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) * | lupusworax | Same as v3 with 3 x smd power mosfets for swithching external hardware.| 
+| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) * | lupusworax | Same as v3 with 3 x smd power mosfets for swithching external hardware.|
 | [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) * | ShimonHoranek | Battery protection, low profile, JST connector, dedicated battery pins.|
 | [6](https://github.com/gargomoma/fakeTec_pcb/issues/26) * | ShimonHoranek | ⚠️UNTESTED⚠️ Similar to v5 + SOLAR (CN3791 MPPT).|
 
