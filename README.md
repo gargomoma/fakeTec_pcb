@@ -26,8 +26,8 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 
 | Version | Lora Modules | Official Repo link | Unofficial Repo link |
 | :------------ | :---------------------------- | :-----------------| :-----------------|
-| With TCXO | EByte E22/E220-xxxM-22S/HT-RA62 | <a href="https://github.com/meshtastic/firmware/tree/master/variants/diy/nrf52_promicro_diy_tcxo" target="_blank">Official repo - With TCXO</a> | <a href="https://github.com/mrekin/MeshtasticCustomBoards/tree/main/firmware/variants/diy/promicro_diy_m" target="_blank">With TCXO</a> @mrekin/MeshtasticCustomBoards|
-| Without TCXO | EByte E22/E220-xxxMM-22S/RA-01SH | <a href="https://github.com/meshtastic/firmware/tree/master/variants/diy/nrf52_promicro_diy_xtal" target="_blank">Official repo - Without TCXO</a> | <a href="https://github.com/mrekin/MeshtasticCustomBoards/tree/main/firmware/variants/diy/promicro_diy_mm" target="_blank">Without TCXO</a> @mrekin/MeshtasticCustomBoards|
+| With TCXO | EByte E22/E220-xxxM-22S/HT-RA62 | <a href="https://github.com/meshtastic/firmware/tree/master/variants/nrf52840/diy/nrf52_promicro_diy_tcxo" target="_blank">Official repo - With TCXO</a> | <a href="https://github.com/mrekin/MeshtasticCustomBoards/tree/main/firmware/variants/nrf52840/diy/promicro_diy_m" target="_blank">With TCXO</a> @mrekin/MeshtasticCustomBoards|
+| Without TCXO | EByte E22/E220-xxxMM-22S/RA-01SH | <a href="https://github.com/meshtastic/firmware/tree/master/variants/nrf52840/diy/nrf52_promicro_diy_xtal" target="_blank">Official repo - Without TCXO</a> | <a href="https://github.com/mrekin/MeshtasticCustomBoards/tree/main/firmware/variants/nrf52840/diy/promicro_diy_mm" target="_blank">Without TCXO</a> @mrekin/MeshtasticCustomBoards|
 
 ℹ️If you don't want to build your own image use <a href="https://mrekin.duckdns.org/flasher/" target="_blank">mrekin's flasher</a>
 
