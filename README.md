@@ -62,6 +62,9 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **F1 Micro** | [printables](https://www.printables.com/model/1123408-meshtastic-faketec-f1-micro-node-nrf52) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/34) | **Amade 2 ( Duo color vintage)** | [printables](https://www.printables.com/model/1286551-meshtastic-faketec-amade2-nrf52-node-duo-color-vin) |
 | [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/8) | **Solar Outdoor Node Remix** | [printables](https://www.printables.com/model/1302410-faketec-solar-outdoor-node) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/39) | **Vintage "Pager"** | [printables](https://www.printables.com/model/1351924-meshtastic-faketec-vintage-pager-wip) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/39) | **"Rucksack" Phone node** | [printables](https://www.printables.com/model/1361603-meshtastic-faketec-rucksack) |
+| [lupusworax](https://github.com/gargomoma/fakeTec_pcb/issues/39) | **Car tracker solar Node** | [printables](https://www.printables.com/model/1384356-faketec-solar-powered-car-tracker-node) |
 | [mosstrike1](https://cults3d.com/en/users/mosstrike1) | **FakeDeck** | [cults3d](https://cults3d.com/en/3d-model/various/fakedeck-a-faketek-standalone-meshtastic-device ) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **Dummy Model** | [printables](https://www.printables.com/model/1098558-faketec-dummy-model) |
 | [candre23](https://github.com/gargomoma/fakeTec_pcb/issues/5) | **p4gr** | [printables](https://www.printables.com/model/1099391-p4gr-a-minimalist-enclosure-for-the-faketec-meshta) |
