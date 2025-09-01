@@ -84,7 +84,9 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 ## Blog posts
 
 [Building guide by Adrelien](https://adrelien.com/diy-meshtastic-how-to-build-your-own-meshtastic-device-with-faketec-pcb-nrf52840)
+
 [Faketec - DIY低成本的Meshtastic裝置 by JudithWang25(Traditional Chinese)](https://hackmd.io/pl3BD8HUSDa_0tGeHo99KQ)
+
 [fakeTec：Heltec V3 的开源平替，低成本、长续航的 Meshtastic DIY 方案 by Hays Chan(Simplified Chinese)](https://meshcn.net/what-is-faketec-opensource-diy-meshtastic-project/)
 
 
