@@ -1,6 +1,8 @@
 # fakeTec_pcb
 A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compatible with [Meshtastic](https://meshtastic.org/)®.
 
+> 💡 Looking for a compact e22/e80 node? Check out [xiaoWa_pcb - 小瓦](https://github.com/gargomoma/xiaoWa_pcb) !!
+
 # Pictures
 <details><summary>Click to open</summary>
 
