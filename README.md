@@ -100,9 +100,11 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | 1 | gargomoma | Original layout. |
 | 2 | gargomoma | OledPins moved; Voltage divider resistors moved; added 2mm holes. |
 | 3 | gargomoma | Bigger pads; Added 2 x pushbuttons; Access to charge boost option. |
-| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) * | lupusworax | Same as v3 with 3 x smd power mosfets for swithching external hardware.|
+| [3 Panelized](https://github.com/gargomoma/fakeTec_pcb/pull/66) | AleTornesello | Panelized v3 |
+| [4](https://github.com/gargomoma/fakeTec_pcb/issues/16) * | lupusworax | Same as v3. With 3 x smd power mosfets for switching external hardware.|
 | [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) * | ShimonHoranek | Battery protection, low profile, JST connector, dedicated battery pins.|
 | [6](https://github.com/gargomoma/fakeTec_pcb/issues/26) * | ShimonHoranek | ⚠️UNTESTED⚠️ Similar to v5 + SOLAR (CN3791 MPPT).|
+| [MiniX](https://github.com/gargomoma/fakeTec_pcb/issues/63) * | lupusworax | Compact variant of the Faketec V4 with additional freatures.|
 
 * The Gerber files in the repository may not be the most recent. Always verify the user's original post for updates before using a community-submitted design.
 
