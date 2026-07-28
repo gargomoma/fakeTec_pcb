@@ -105,8 +105,9 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) * | ShimonHoranek | Battery protection, low profile, JST connector, dedicated battery pins.|
 | [6](https://github.com/gargomoma/fakeTec_pcb/issues/26) * | ShimonHoranek | ⚠️UNTESTED⚠️ Similar to v5 + SOLAR (CN3791 MPPT).|
 | [MiniX](https://github.com/gargomoma/fakeTec_pcb/issues/63) * | lupusworax | Compact variant of the Faketec V4 with additional freatures.|
+| [2.4 GHz](https://github.com/sqtactical/FakeTec_2.4G) * | sqtactical | Variant of the V4 for the Ebyte E28 module to support 2.4GHz|
 
-* The Gerber files in the repository may not be the most recent. Always verify the user's original post for updates before using a community-submitted design.
+**\*** The Gerber files in the repository may not be the most recent. Always verify the user's original post for updates before using a community-submitted design.
 
 Hint: Newer versions aren't necessarily superior; when unsure use v3 or v4.
 
@@ -117,7 +118,7 @@ Hint: Newer versions aren't necessarily superior; when unsure use v3 or v4.
 >
 >Look for: "update-nice_nano_bootloader-X.X.X_nosd" where X.X.X is the version.
 >
->Latest version is: [update-nice_nano_bootloader-0.9.2_nosd.uf2](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases/download/0.9.2/update-nice_nano_bootloader-0.9.2_nosd.uf2)
+>Latest version is: [update-nice_nano_bootloader-0.10.0_nosd.uf2](https://github.com/adafruit/Adafruit_nRF52_Bootloader/releases/download/0.10.0/update-nice_nano_bootloader-0.10.0_nosd.uf2)
 >
 >To flash all you need to do is to connect the device via USB and double tap RST and GND pins with tweezers. After doing so you should see in your OS a USB storage device named "NICENANO". Copy/move the .uf2 file into the storage device and wait for the reboot.
 >
