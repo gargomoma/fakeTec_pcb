@@ -105,8 +105,9 @@ A low-cost nRF52 device with the form-factor of the Heltec v2 & v3 devices compa
 | [5](https://github.com/gargomoma/fakeTec_pcb/issues/24) * | ShimonHoranek | Battery protection, low profile, JST connector, dedicated battery pins.|
 | [6](https://github.com/gargomoma/fakeTec_pcb/issues/26) * | ShimonHoranek | ⚠️UNTESTED⚠️ Similar to v5 + SOLAR (CN3791 MPPT).|
 | [MiniX](https://github.com/gargomoma/fakeTec_pcb/issues/63) * | lupusworax | Compact variant of the Faketec V4 with additional freatures.|
+| [2.4 GHz](https://github.com/sqtactical/FakeTec_2.4G) * | sqtactical | Variant of the V4 for the Ebyte E28 module to support 2.4GHz|
 
-* The Gerber files in the repository may not be the most recent. Always verify the user's original post for updates before using a community-submitted design.
+**\*** The Gerber files in the repository may not be the most recent. Always verify the user's original post for updates before using a community-submitted design.
 
 Hint: Newer versions aren't necessarily superior; when unsure use v3 or v4.
 
